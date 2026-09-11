@@ -3,6 +3,12 @@
 Bioinformatics Masters student @ Northeastern University. Building the computational bridge between Biology + Data Analytics + Machine learning.
 I have an interest in Precision Medicine, Machine Learning, Genomics, Transcriptomics, Proteomics, Drug Discovery, and NeuroScience. What I'm passionate about turning messy biological data into meaningful discoveries — genomics, ML, and everything in between and understanding the stories hidden in the data. Currently RA at Mary Ondrechen Lab Northeastern University. 
 
+## Coding Languages
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
 ## Bioinformatics Skills
 ![Genomics](https://img.shields.io/badge/Genomics-fe428e.svg?style=for-the-badge&logoColor=white)
 ![Transcriptomics](https://img.shields.io/badge/Transcriptomics-f8d847.svg?style=for-the-badge&logoColor=black)
@@ -35,11 +41,52 @@ I have an interest in Precision Medicine, Machine Learning, Genomics, Transcript
 ![BLAST](https://img.shields.io/badge/BLAST-1a1b27.svg?style=for-the-badge&logoColor=79ff97)
 ![Seurat](https://img.shields.io/badge/Seurat-1a1b27.svg?style=for-the-badge&logoColor=70a5fd)
 
-## Coding Languages
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+## Biotechnology Skills/ Wet lab skills
+![Microscopy](https://img.shields.io/badge/Microscopy-1a1b27.svg?style=for-the-badge&logoColor=79ff97)
+![DNA Extraction](https://img.shields.io/badge/DNA_Extraction-1a1b27.svg?style=for-the-badge&logoColor=70a5fd)
+![DNA Preservation](https://img.shields.io/badge/DNA_Preservation-1a1b27.svg?style=for-the-badge&logoColor=bf91f3)
+![PCR](https://img.shields.io/badge/PCR-1a1b27.svg?style=for-the-badge&logoColor=79ff97)
+![Gel Electrophoresis](https://img.shields.io/badge/Gel_Electrophoresis-1a1b27.svg?style=for-the-badge&logoColor=70a5fd)
+![Gel Extraction](https://img.shields.io/badge/Gel_Extraction-1a1b27.svg?style=for-the-badge&logoColor=bf91f3)
+![Cloning](https://img.shields.io/badge/Cloning-1a1b27.svg?style=for-the-badge&logoColor=79ff97)
+![Sequencing](https://img.shields.io/badge/Sequencing-1a1b27.svg?style=for-the-badge&logoColor=70a5fd)
+![Library Preparation](https://img.shields.io/badge/Library_Preparation-1a1b27.svg?style=for-the-badge&logoColor=bf91f3)
+
+## Workflow
+![Linux](https://img.shields.io/badge/Linux-1a1b27.svg?style=for-the-badge&logo=linux&logoColor=79ff97)
+![Nextflow](https://img.shields.io/badge/Nextflow-1a1b27.svg?style=for-the-badge&logo=nextflow&logoColor=70a5fd)
+![Singularity](https://img.shields.io/badge/Singularity-1a1b27.svg?style=for-the-badge&logoColor=bf91f3)
+![Docker](https://img.shields.io/badge/Docker-1a1b27.svg?style=for-the-badge&logo=docker&logoColor=79ff97)
+![Sbatch/SLURM](https://img.shields.io/badge/Sbatch%2FSLURM-1a1b27.svg?style=for-the-badge&logoColor=70a5fd)
+![HPC](https://img.shields.io/badge/HPC-1a1b27.svg?style=for-the-badge&logoColor=bf91f3)
+![AWS](https://img.shields.io/badge/AWS-1a1b27.svg?style=for-the-badge&logo=amazonaws&logoColor=79ff97)
+![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-1a1b27.svg?style=for-the-badge&logo=github&logoColor=70a5fd)
+
+## Database
+![NCBI](https://img.shields.io/badge/NCBI-1a1b27.svg?style=for-the-badge&logoColor=79ff97)
+![GEO](https://img.shields.io/badge/GEO-1a1b27.svg?style=for-the-badge&logoColor=70a5fd)
+![UniProt](https://img.shields.io/badge/UniProt-1a1b27.svg?style=for-the-badge&logoColor=bf91f3)
+![PDB](https://img.shields.io/badge/PDB-1a1b27.svg?style=for-the-badge&logoColor=79ff97)
+![KEGG](https://img.shields.io/badge/KEGG-1a1b27.svg?style=for-the-badge&logoColor=70a5fd)
+![SwissProt](https://img.shields.io/badge/SwissProt-1a1b27.svg?style=for-the-badge&logoColor=bf91f3)
+![ENCODE](https://img.shields.io/badge/ENCODE-1a1b27.svg?style=for-the-badge&logoColor=79ff97)
+![DrugBank](https://img.shields.io/badge/DrugBank-1a1b27.svg?style=for-the-badge&logoColor=70a5fd)
+![RefSeq](https://img.shields.io/badge/RefSeq-1a1b27.svg?style=for-the-badge&logoColor=bf91f3)
+![PubChem](https://img.shields.io/badge/PubChem-1a1b27.svg?style=for-the-badge&logoColor=79ff97)
+![ChEMBL](https://img.shields.io/badge/ChEMBL-1a1b27.svg?style=for-the-badge&logoColor=70a5fd)
+
+## Machine Learning skills
+![Regression](https://img.shields.io/badge/Regression-1a1b27.svg?style=for-the-badge&logoColor=79ff97)
+![Classification](https://img.shields.io/badge/Classification-1a1b27.svg?style=for-the-badge&logoColor=70a5fd)
+![Random Forest](https://img.shields.io/badge/Random_Forest-1a1b27.svg?style=for-the-badge&logoColor=bf91f3)
+![Ensemble](https://img.shields.io/badge/Ensemble-1a1b27.svg?style=for-the-badge&logoColor=79ff97)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-1a1b27.svg?style=for-the-badge&logoColor=70a5fd)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-1a1b27.svg?style=for-the-badge&logoColor=bf91f3)
+![Predictive Modelling](https://img.shields.io/badge/Predictive_Modelling-1a1b27.svg?style=for-the-badge&logoColor=79ff97)
+![Dimensionality Reduction](https://img.shields.io/badge/Dimensionality_Reduction-1a1b27.svg?style=for-the-badge&logoColor=70a5fd)
+![Target Validation](https://img.shields.io/badge/Target_Validation-1a1b27.svg?style=for-the-badge&logoColor=bf91f3)
+![Large--scale Biological Data Preprocessing](https://img.shields.io/badge/Large--scale_Biological_Data_Preprocessing-1a1b27.svg?style=for-the-badge&logoColor=79ff97)
+![Encoding](https://img.shields.io/badge/Encoding-1a1b27.svg?style=for-the-badge&logoColor=70a5fd)
 
 ## Machine learning and deep learning frameworks
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -55,5 +102,14 @@ I have an interest in Precision Medicine, Machine Learning, Genomics, Transcript
 ![RStudio](https://img.shields.io/badge/RStudio-%234285F4.svg?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/notepadplusplus-%2390E59A.svg?style=for-the-badge&logo=notepadplusplus&logoColor=black)
+
+## File Type
+![FASTA](https://img.shields.io/badge/FASTA-1a1b27.svg?style=for-the-badge&logoColor=79ff97)
+![FASTQ](https://img.shields.io/badge/FASTQ-1a1b27.svg?style=for-the-badge&logoColor=70a5fd)
+![BAM](https://img.shields.io/badge/BAM-1a1b27.svg?style=for-the-badge&logoColor=bf91f3)
+![SAM](https://img.shields.io/badge/SAM-1a1b27.svg?style=for-the-badge&logoColor=79ff97)
+![Count Matrix](https://img.shields.io/badge/Count_Matrix-1a1b27.svg?style=for-the-badge&logoColor=70a5fd)
+![GTF/GFF](https://img.shields.io/badge/GTF%2FGFF-1a1b27.svg?style=for-the-badge&logoColor=bf91f3)
+![Expression Table](https://img.shields.io/badge/Expression_Table-1a1b27.svg?style=for-the-badge&logoColor=79ff97)
 
 [![Dinesh's GitHub stats](https://github-stats-extended.vercel.app/api?username=Dineshp1302&theme=radical)](https://github.com/stats-organization/github-stats-extended)
