@@ -3,6 +3,25 @@
 Bioinformatics Masters student @ Northeastern University. Building the computational bridge between Biology + Data Analytics + Machine learning.
 I have an interest in Precision Medicine, Machine Learning, Genomics, Transcriptomics, Proteomics, Drug Discovery, and NeuroScience. What I'm passionate about turning messy biological data into meaningful discoveries — genomics, ML, and everything in between and understanding the stories hidden in the data. Currently RA at Mary Ondrechen Lab Northeastern University. 
 
+# Bioinformatics Skills
+![Genomics](https://img.shields.io/badge/Genomics-fe428e.svg?style=for-the-badge&logoColor=white)
+![Transcriptomics](https://img.shields.io/badge/Transcriptomics-f8d847.svg?style=for-the-badge&logoColor=black)
+![Omics](https://img.shields.io/badge/Omics-a9fef7.svg?style=for-the-badge&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-fe428e.svg?style=for-the-badge&logoColor=white)
+![Biostatistics](https://img.shields.io/badge/Biostatistics-f8d847.svg?style=for-the-badge&logoColor=black)
+![NGS](https://img.shields.io/badge/NGS-a9fef7.svg?style=for-the-badge&logoColor=black)
+![Bulk RNA-seq](https://img.shields.io/badge/Bulk_RNA--seq-fe428e.svg?style=for-the-badge&logoColor=white)
+![scRNA-seq](https://img.shields.io/badge/scRNA--seq-f8d847.svg?style=for-the-badge&logoColor=black)
+![scCRISPR-seq Analysis](https://img.shields.io/badge/scCRISPR--seq_Analysis-a9fef7.svg?style=for-the-badge&logoColor=black)
+![QC](https://img.shields.io/badge/QC-fe428e.svg?style=for-the-badge&logoColor=white)
+![Read Alignment](https://img.shields.io/badge/Read_Alignment-f8d847.svg?style=for-the-badge&logoColor=black)
+![Indexing](https://img.shields.io/badge/Indexing-a9fef7.svg?style=for-the-badge&logoColor=black)
+![Quantification](https://img.shields.io/badge/Quantification-fe428e.svg?style=for-the-badge&logoColor=white)
+![Normalization](https://img.shields.io/badge/Normalization-f8d847.svg?style=for-the-badge&logoColor=black)
+![Differential Expression Analysis](https://img.shields.io/badge/Differential_Expression_Analysis-a9fef7.svg?style=for-the-badge&logoColor=black)
+![Downstream Statistical Analysis](https://img.shields.io/badge/Downstream_Statistical_Analysis-fe428e.svg?style=for-the-badge&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-f8d847.svg?style=for-the-badge&logoColor=black)
+
 # Coding Languages
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
